@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="uol_navy">#0F172A</color>
+    <color name="uol_gold">#D4AF37</color>
+    <color name="uol_background">#F8FAFC</color> <!-- Very soft grey/blue background -->
+    <color name="uol_text">#1E293B</color>
+    <color name="uol_muted">#64748B</color>
+    <color name="uol_white">#FFFFFF</color>
+    <color name="uol_border">#E2E8F0</color> <!-- Subtle borders -->
+</resources>
